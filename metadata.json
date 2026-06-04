@@ -1,0 +1,6 @@
+{
+  "name": "إدارة المتاجر",
+  "description": "تطبيق مثالي لبناء المتاجر الإلكترونية وإدارتها مع لوحة تحكم متكاملة لإدارة المنتجات، الطلبات، والمدفوعات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
